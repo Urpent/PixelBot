@@ -1,0 +1,10 @@
+C:\Users\Renewal\Desktop\TEMP CO WORK\AI Conquer\AI Conquer\bin\Debug\AI Conquer.exe.config
+C:\Users\Renewal\Desktop\TEMP CO WORK\AI Conquer\AI Conquer\bin\Debug\AI Conquer.exe
+C:\Users\Renewal\Desktop\TEMP CO WORK\AI Conquer\AI Conquer\bin\Debug\AI Conquer.pdb
+C:\Users\Renewal\Desktop\TEMP CO WORK\AI Conquer\AI Conquer\obj\Debug\AI Conquer.csprojResolveAssemblyReference.cache
+C:\Users\Renewal\Desktop\TEMP CO WORK\AI Conquer\AI Conquer\obj\Debug\AI_Conquer.Form1.resources
+C:\Users\Renewal\Desktop\TEMP CO WORK\AI Conquer\AI Conquer\obj\Debug\AI_Conquer.Properties.Resources.resources
+C:\Users\Renewal\Desktop\TEMP CO WORK\AI Conquer\AI Conquer\obj\Debug\AI Conquer.csproj.GenerateResource.Cache
+C:\Users\Renewal\Desktop\TEMP CO WORK\AI Conquer\AI Conquer\obj\Debug\AI Conquer.exe
+C:\Users\Renewal\Desktop\TEMP CO WORK\AI Conquer\AI Conquer\obj\Debug\AI Conquer.pdb
+C:\Users\Renewal\Desktop\TEMP CO WORK\AI Conquer\AI Conquer\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
